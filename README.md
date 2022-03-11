@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Dot-kpp
+- Currently a student at 42
+- Experience in pentesting, web dev, game dev, networking, Linux
+- Top 2% on TryHackMe, pretty proud..
+- It only goes uphill from here
