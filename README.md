@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @Dot-kpp
-- Currently a student at 42
+Currently a student at 42
