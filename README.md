@@ -1,13 +1,12 @@
 ### Hi there 👋, my name is Jeremie - aka Kipp
 #### 👾 I am currently a student at 42 👾
-
 ____________________________________________________________________
 Skills: C / Python / REACT / JS / HTML / CSS
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dot-kpp&show_icons=true&count_private=true)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Dot-kpp)  
+![](https://github-readme-stats.vercel.app/api?username=dot-kpp&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dot-kpp&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dot-kpp&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 ____________________________________________________________________
