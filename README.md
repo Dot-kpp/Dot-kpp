@@ -19,6 +19,5 @@ ____________________________________________________________________
 ____________________________________________________________________
 
 ## Get in Touch
-[PiloDev](https://pilodev.com)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Dot-kpp)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jeremie-pilotte-791192145//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://pilodev.com/)  
