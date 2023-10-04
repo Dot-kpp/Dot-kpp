@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Jeremie - aka Kipp
 #### 👾 Student of 42 👾
 ____________________________________________________________________
-Skills: C / Python / REACT / JS / HTML / CSS
+Skills: C / C++ / Python / REACT / JS / HTML / CSS
 
 ## Current Projects/Study Topics
 
