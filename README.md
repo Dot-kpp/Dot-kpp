@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Jeremie - aka Kipp
-#### 👾 Student at 42 👾
+#### 👾 Student of 42 👾
 ____________________________________________________________________
 Skills: C / Python / REACT / JS / HTML / CSS
 
