@@ -5,7 +5,8 @@ Skills: C / C++ / Python / REACT / JS / HTML / CSS
 
 ## Current Projects/Study Topics
 
-- Cub3d
+- Inception
+- ft_irc
 - CPP
 - System admin
 - Web
